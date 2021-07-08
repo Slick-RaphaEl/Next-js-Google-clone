@@ -21,7 +21,7 @@ Clone the repo:
 Install NPM packages:
     npm install
 
-#Author
+# Author
 Raphael Otuya 
 @Slick-RaphaEl
 
