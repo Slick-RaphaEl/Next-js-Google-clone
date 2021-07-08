@@ -42,7 +42,7 @@ export default function Home() {
 
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer"/>
 
-          <Avatar url="https://coaching.papareact.com/ai9" />
+          <UserCircleIcon className="ml-auto h-5" />
         </div>
 
       </header>

@@ -48,7 +48,7 @@ function Header() {
                 </form>
 
                 <UserCircleIcon className="ml-auto h-5" />
-                {/* <Avatar className="ml-auto" url="https://coaching.papareact.com/ai9"/> */}
+                
             </div>
 
             <HeaderOptions />
